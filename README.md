@@ -191,5 +191,4 @@ This project provides a hands-on approach to SQL for data analysts. By performin
 - Automate data cleaning and EDA tasks
 - Expand dataset with **customer feedback or purchase history**
 
-This structured approach ensures that the project covers key aspects of retail sales analysis using SQL. 🚀
 
